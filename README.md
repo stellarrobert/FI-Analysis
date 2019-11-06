@@ -1,5 +1,5 @@
 # FI-Analysis
-This post explores the 2016 survey data for users of r/financialindependence. This community is skewed toward the ultra frugal and those interested in aggressive saving and investing. Here, 1377 community members released their answers to questions ranging from their career to living situation to even their upbringing. This analysis aims to address three main questions:
+This post explores the 2016 survey data for users of r/financialindependence. This community is skewed toward the ultra frugal and those interested in aggressive saving and investing. Here, 1377 community members released their answers to questions ranging from their career to living situation to even their upbringing. This analysis addresses three main questions:
 
 1)	How do financial goals change as users get older?
 2)	How does upbringing affect users’ financial wellbeing in adulthood?
