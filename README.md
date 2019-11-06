@@ -14,6 +14,6 @@ Files
 Visualizations and interactivity
   * Initial, exploratory plots created in Jupyter notebook
   * Additional data exploration and analysis conducted in external Tableau workbook
-  * Interactive calculator is hosted on Tableau Public server: _____URL______
+  * Interactive calculator is hosted on Tableau Public server: https://public.tableau.com/profile/stellarrobert#!/vizhome/FISurveyData--PercentileCalculator/PercentileCalculator
   
   
