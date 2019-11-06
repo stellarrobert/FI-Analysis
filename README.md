@@ -1,5 +1,13 @@
 # FI-Analysis
-This repository explores the 2016 survey data for users of r/financialindependence. 
+This post explores the 2016 survey data for users of r/financialindependence. This community is skewed toward the ultra frugal and those interested in aggressive saving and investing. Here, 1377 community members released their answers to questions ranging from their career to living situation to even their upbringing. This analysis aims to address three areas:
+
+1)	How do financial goals change as users get older?
+2)	How does upbringing affect users’ financial wellbeing in adulthood?
+3)	How does a given person compare to this group of users?
+
+
+
+comprehensive survey gives a 
 
 I start by cleaning the data in a way that is conducive to analysis
     * Starting with raw data from the 
