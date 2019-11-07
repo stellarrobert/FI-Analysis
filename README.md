@@ -17,3 +17,9 @@ Visualizations and interactivity
   * Interactive calculator is hosted on Tableau Public server: https://public.tableau.com/profile/stellarrobert#!/vizhome/FISurveyData--PercentileCalculator/PercentileCalculator
   
   
+Results
+  * The number required for an individual to consider themselves financially independent is positively correlated with age
+  * People tend to become more sure whether they want children with age, and those who do not plan to do so become more common as age increases
+  * The financial status of a user's parents is highly associated with their ability and inclination to provide financial education to their children
+  * Financial education from one's parents is associated with better financial outcomes later in life
+  
